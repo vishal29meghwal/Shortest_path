@@ -11,7 +11,7 @@ This project finds the shortest path between two points in 2D context. The algor
 Javascript ,HTML5 and CSS
 
 ## Project Link
-https://shortest-path-git-master.ismians.vercel.app/maze/maze.html
+https://vishal29meghwal.github.io/Shortest_path/
 
 The project works on all the browsers (Chrome, Microsoft edge, Mozilla Firefox(version 64.0 64bit), Safari(macOS Sierra)). 
 
